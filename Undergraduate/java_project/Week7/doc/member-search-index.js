@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"week7","l":"week7()","url":"%3Cinit%3E()"}]
