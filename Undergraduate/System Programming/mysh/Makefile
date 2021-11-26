@@ -1,5 +1,5 @@
 # Makefile
-TARGET=mysh.out
+TARGET=mysh
 CXX=gcc
 CXXFLAGS=-W
 OBJECTS=proj2.c
